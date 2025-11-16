@@ -30,7 +30,7 @@ Just write your blog in Markdown format and ship it to everyone on the internet!
 - ⚡ Fast performance with Next.js - all static HTML files, **100% Core Web Vitals**
 - 🖼️ Dynamic Open Graph image generation
 - 📰 Auto-generated RSS and Atom feeds
-- 🗺️ Automatically generated sitemap and robots.txt
+- 🗺️ Automatically generated sitemap
 - 🔍 SEO-friendly with structured data (JSON-LD) and semantic HTML
 - ♿ WCAG 2.2 accessibility compliant with proper semantic markup
 - 🎨 Customizable author branding and social links
